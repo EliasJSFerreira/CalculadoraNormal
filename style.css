@@ -1,0 +1,25 @@
+button {
+      background-color: #1100ff;
+      display: flex;
+      height: 60px;
+      width: 60px;
+      align-items: center;
+      justify-content: space-around;
+      border-radius: 15px;
+      margin:15px;
+      color:rgb(245, 0, 0);
+      font-size: 20px;
+      
+   }
+
+ .botao:hover{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    transform: scale(1.2);
+ }
+
+ h1 {
+    color: #1100ff;
+    font-size: 2em;
+  }
+  
